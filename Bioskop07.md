@@ -42,3 +42,14 @@ Jawab :
 4. penonton.length digunakan untuk mengetahui jumlah baris pada array 2 dimensi. 
    Ya, semuanya memiliki nilai yang sama (yaitu 2), Karena ketika array dibuat: new String[4][2]
    Java membuat struktur 4 baris dan setiap baris memiliki 2 kolom
+5. modif done
+6. modif done
+7. modif done
+8. modif done
+9. modif done
+10. foreach loop lebih sederhana dan mudah dibaca karena tidak perlu memasukkan index,kondisi dan
+    increment dan cocok untuk membaca semua elemen sedangkan kekurangannya adalah dalam foreach kita tidak tahu elemen ke berapa yang sedang diakses,tidak cocok untuk mengubah nilai array dan tidak bisa melompati elemen tertentu seperti continue dan break.
+11. Indeks baris maksimal untuk array penonton adalah 3
+12. Indeks kolom maksimal untuk array penonton adalah 1 
+13. String.join() adalah metode di Java yang digunakan untuk menggabungkan beberapa string menjadi satu
+   string, dengan pemisah (delimiter) tertentu di antara tiap elemen.
